@@ -37,7 +37,7 @@ article {
 .shadow {
   height: 600px;
   width: 350px;
-  box-shadow: 0 20px 90px hsl(216, 51%, 10%);
+  box-shadow: 0 20px 20px 10px hsl(216, 51%, 10%);
   border-radius: 20px;
 }
 
